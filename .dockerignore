@@ -1,0 +1,5 @@
+.git
+../telegram_bitcoin_bot/.env.example
+.idea
+.vscode
+*.md

@@ -1,0 +1,9 @@
+services:
+  bitcoin_bot:
+    build: .
+    container_name: bot-container
+    volumes:
+      - .:/app
+    env_file:
+      - .env
+    restart: unless-stopped
