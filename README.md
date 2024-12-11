@@ -30,7 +30,7 @@ This project is a **Bitcoin Telegram Bot** that monitors the current price of Bi
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/samahali/telegram-bitcoin-bot.git
 cd telegram_bitcoin_bot
 ```
 
